@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog de Felipe Daffunchio</title>
+    <link>https://example.com/ar/esp/</link>
+    <description>Recent content on Blog de Felipe Daffunchio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/ar/esp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/ar/esp/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/esp/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://example.com/ar/esp/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/esp/contact/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sobre mí</title>
+      <link>https://example.com/ar/esp/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/esp/about/</guid>
+      
+        <description>Blog diseñado para publicar mis artículos, los mismos serán hechos en base a los temas que son de mi interés, los cuales pueden ubicarse en diferentes de campos de investigación histórica tales como</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/ar/esp/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/esp/imprint/</guid>
+      
+        <description>Legal Disclosure Information in accordance with the applicable law
+Jane Doe</description>
+      
+    </item>
+    
+  </channel>
+</rss>

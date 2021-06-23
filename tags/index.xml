@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Felipe Daffunchio</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Felipe Daffunchio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jun 2021 18:14:48 -0300</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>conflictos armados</title>
+      <link>https://example.com/tags/conflictos-armados/</link>
+      <pubDate>Tue, 22 Jun 2021 18:14:48 -0300</pubDate>
+      
+      <guid>https://example.com/tags/conflictos-armados/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>historia</title>
+      <link>https://example.com/tags/historia/</link>
+      <pubDate>Tue, 22 Jun 2021 18:14:48 -0300</pubDate>
+      
+      <guid>https://example.com/tags/historia/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://example.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
