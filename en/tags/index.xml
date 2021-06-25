@@ -6,16 +6,5 @@
     <description>Recent content in Tags on Felipe Daffunchio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://example.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>index</title>
-      <link>https://example.com/en/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/en/tags/index/</guid>
-      
-        <description></description>
-      
-    </item>
-    
   </channel>
 </rss>

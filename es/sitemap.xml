@@ -128,22 +128,5 @@
                 hreflang="es"
                 href="https://example.com/categories/"
                 />
-  </url><url>
-    <loc>https://example.com/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/tags/index/"
-                />
   </url>
 </urlset>

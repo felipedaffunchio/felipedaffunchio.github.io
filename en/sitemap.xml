@@ -88,23 +88,6 @@
                 href="https://example.com/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/en/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/tags/index/"
-                />
-  </url><url>
     <loc>https://example.com/en/post/</loc>
     <xhtml:link
                 rel="alternate"
