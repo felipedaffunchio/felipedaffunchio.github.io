@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/en/archives/</loc>
+    <loc>https://franlab93.github.io/en/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/archives/"
+                href="https://franlab93.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/archives/"
+                href="https://franlab93.github.io/en/archives/"
                 />
   </url><url>
-    <loc>https://example.com/en/contact/</loc>
+    <loc>https://franlab93.github.io/en/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/contact/"
+                href="https://franlab93.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/contact/"
+                href="https://franlab93.github.io/en/contact/"
                 />
   </url><url>
-    <loc>https://example.com/en/about/</loc>
+    <loc>https://franlab93.github.io/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/about/"
+                href="https://franlab93.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/about/"
+                href="https://franlab93.github.io/en/about/"
                 />
   </url><url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://franlab93.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/"
+                href="https://franlab93.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://franlab93.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://franlab93.github.io/en/"
                 />
   </url><url>
-    <loc>https://example.com/en/imprint/</loc>
+    <loc>https://franlab93.github.io/en/imprint/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/imprint/"
+                href="https://franlab93.github.io/imprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/imprint/"
+                href="https://franlab93.github.io/en/imprint/"
                 />
   </url><url>
-    <loc>https://example.com/en/categories/</loc>
+    <loc>https://franlab93.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/categories/"
+                href="https://franlab93.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://franlab93.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://franlab93.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/en/post/</loc>
+    <loc>https://franlab93.github.io/en/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/post/"
+                href="https://franlab93.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/"
+                href="https://franlab93.github.io/en/post/"
                 />
   </url><url>
-    <loc>https://example.com/en/tags/</loc>
+    <loc>https://franlab93.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/tags/"
+                href="https://franlab93.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://franlab93.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://franlab93.github.io/en/tags/"
                 />
   </url>
 </urlset>

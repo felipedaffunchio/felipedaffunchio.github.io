@@ -2,54 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog de Felipe Daffunchio</title>
-    <link>https://example.com/ar/esp/</link>
-    <description>Recent content on Blog de Felipe Daffunchio</description>
+    <link>https://franlab93.github.io/ar/esp/</link>
+    <description>Contenido reciente de Blog de Felipe Daffunchio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/ar/esp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://franlab93.github.io/ar/esp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/ar/esp/archives/</link>
+      <link>https://franlab93.github.io/ar/esp/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/esp/archives/</guid>
-      
+      <guid>https://franlab93.github.io/ar/esp/archives/</guid>
         <description></description>
-      
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>https://example.com/ar/esp/contact/</link>
+      <link>https://franlab93.github.io/ar/esp/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/esp/contact/</guid>
-      
+      <guid>https://franlab93.github.io/ar/esp/contact/</guid>
         <description></description>
-      
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/ar/esp/about/</link>
+      <link>https://franlab93.github.io/ar/esp/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/esp/about/</guid>
-      
-        <description>Blog diseñado para publicar mis artículos, los mismos serán hechos en base a los temas que son de mi interés, los cuales pueden ubicarse en diferentes de campos de investigación histórica tales como</description>
-      
+      <guid>https://franlab93.github.io/ar/esp/about/</guid>
+        <description>&lt;p&gt;Blog diseñado para publicar mis artículos, los mismos serán hechos en base a los temas que son de mi interés, los cuales pueden ubicarse en diferentes de campos de investigación histórica tales como&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conflictos armados (Reclutamiento, composición, logística, tácticas y consecuencias)&lt;/li&gt;
+&lt;li&gt;Economía (Especialmente eventos inflacionarios e hiperinflacionarios en diferentes espacios temporales y geográficos)&lt;/li&gt;
+&lt;li&gt;Política (Dinámicas partidarias, sistemas de partidos, sistemas de gobierno, economía política)&lt;/li&gt;
+&lt;li&gt;Corrientes historiográficas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Otros temas de interés fuera de los artículos o relacionados a ellos&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Música&lt;/li&gt;
+&lt;li&gt;Filosofía&lt;/li&gt;
+&lt;li&gt;Psicología&lt;/li&gt;
+&lt;li&gt;Pedagogía&lt;/li&gt;
+&lt;li&gt;Herrería&lt;/li&gt;
+&lt;li&gt;Humor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si estás interesado en contactarme podés hacerlo a través de mi correo:&lt;/p&gt;
+&lt;p&gt;📩 &lt;strong&gt;&lt;a href=&#34;mailto:felipedaff@gmail.com&#34;&gt;felipedaff@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/ar/esp/imprint/</link>
+      <link>https://franlab93.github.io/ar/esp/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/esp/imprint/</guid>
-      
-        <description>Legal Disclosure Information in accordance with the applicable law
-Jane Doe</description>
-      
+      <guid>https://franlab93.github.io/ar/esp/imprint/</guid>
+        <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
+&lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
+&lt;p&gt;Jane Doe&lt;br&gt;
+Anatole Street 10&lt;br&gt;
+2016 GoHugo&lt;br&gt;
+Germany&lt;/p&gt;
+</description>
     </item>
     
   </channel>

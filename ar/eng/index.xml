@@ -2,54 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog de Felipe Daffunchio</title>
-    <link>https://example.com/ar/eng/</link>
-    <description>Recent content on Blog de Felipe Daffunchio</description>
+    <link>https://franlab93.github.io/ar/eng/</link>
+    <description>Contenido reciente de Blog de Felipe Daffunchio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/ar/eng/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://franlab93.github.io/ar/eng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/ar/eng/archives/</link>
+      <link>https://franlab93.github.io/ar/eng/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/eng/archives/</guid>
-      
+      <guid>https://franlab93.github.io/ar/eng/archives/</guid>
         <description></description>
-      
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/ar/eng/contact/</link>
+      <link>https://franlab93.github.io/ar/eng/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/eng/contact/</guid>
-      
+      <guid>https://franlab93.github.io/ar/eng/contact/</guid>
         <description></description>
-      
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/ar/eng/about/</link>
+      <link>https://franlab93.github.io/ar/eng/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/eng/about/</guid>
-      
-        <description>Blog designed for publishing my articles, which will be about areas of my interest, those ones can be located in research fields like:</description>
-      
+      <guid>https://franlab93.github.io/ar/eng/about/</guid>
+        <description>&lt;p&gt;Blog designed for publishing my articles, which will be about areas of my interest, those ones can be located in research fields like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Armed conflicts (recruitment, composition, logistic, tactics and its consecuenses)&lt;/li&gt;
+&lt;li&gt;Economy (Inflations and Hyperinflations all around diferent times and geographic locations)&lt;/li&gt;
+&lt;li&gt;Policie (party dynamics, party systems, Goverment and politic economy)&lt;/li&gt;
+&lt;li&gt;Historiography&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Another areas of interest outside or related with the articles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Music&lt;/li&gt;
+&lt;li&gt;Philosophy&lt;/li&gt;
+&lt;li&gt;Psicology&lt;/li&gt;
+&lt;li&gt;Pedagogy&lt;/li&gt;
+&lt;li&gt;Blacksmith&lt;/li&gt;
+&lt;li&gt;Humor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are interested in contacting me, you can do it through my e-mail address:&lt;/p&gt;
+&lt;p&gt;📩 &lt;strong&gt;&lt;a href=&#34;mailto:felipedaff@gmail.com&#34;&gt;felipedaff@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/ar/eng/imprint/</link>
+      <link>https://franlab93.github.io/ar/eng/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/eng/imprint/</guid>
-      
-        <description>Legal Disclosure Information in accordance with the applicable law
-Jane Doe</description>
-      
+      <guid>https://franlab93.github.io/ar/eng/imprint/</guid>
+        <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
+&lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
+&lt;p&gt;Jane Doe&lt;br&gt;
+Anatole Street 10&lt;br&gt;
+2016 GoHugo&lt;br&gt;
+Germany&lt;/p&gt;
+</description>
     </item>
     
   </channel>

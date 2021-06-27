@@ -2,65 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Felipe Daffunchio</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Felipe Daffunchio</description>
+    <link>https://franlab93.github.io/</link>
+    <description>Contenido reciente de Felipe Daffunchio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jun 2021 18:14:48 -0300</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jun 2021 18:14:48 -0300</lastBuildDate><atom:link href="https://franlab93.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El ejército hispano-borbón y su abastecimiento durante la guerra de sucesión española (1701-1714)</title>
-      <link>https://example.com/post/ejercito-hispano-borbon-abastecimiento-guerra-sucesion-espa%C3%B1ola/</link>
+      <link>https://franlab93.github.io/post/ejercito-hispano-borbon-abastecimiento-guerra-sucesion-espa%C3%B1ola/</link>
       <pubDate>Tue, 22 Jun 2021 18:14:48 -0300</pubDate>
       
-      <guid>https://example.com/post/ejercito-hispano-borbon-abastecimiento-guerra-sucesion-espa%C3%B1ola/</guid>
-      
-        <description>I. Introducción Antes de comenzar nuestro estudio, que se centrará en cómo la monarquía hispana pudo abastecer a su ejercito de hombres y suministros durante la contienda sucesoria que se extendió por casi trece años, es necesario aclarar una serie de cuestiones que actúan como pilares para poder comprender dicho caso.</description>
-      
+      <guid>https://franlab93.github.io/post/ejercito-hispano-borbon-abastecimiento-guerra-sucesion-espa%C3%B1ola/</guid>
+        <description>&lt;h2 id=&#34;i-introducción&#34;&gt;I. Introducción&lt;/h2&gt;
+&lt;p&gt;Antes de comenzar nuestro estudio, que se centrará en cómo la monarquía hispana pudo abastecer a su ejercito de hombres y suministros durante la contienda sucesoria que se extendió por casi trece años, es necesario aclarar una serie de cuestiones que actúan como pilares para poder comprender dicho caso.&lt;/p&gt;
+&lt;p&gt;Por norma general en una gran cantidad de los trabajos historiográficos, sean estos de nivel secundario e incluso académico; nos encontremos el concepto de Estado, no solo a la hora de abordar temas similares al nuestro de hoy u otros dentro del siglo XVIII, por lo tanto nuestra columna vertebral en esta introducción será sobre qué entendemos como Estado en nuestro marco temporal.&lt;/p&gt;
+&lt;p&gt;La necesidad de esclarecer dicha cuestión en forma previa al análisis se debe a que, hasta hace muy poco tiempo, la historiografía del período moderno ha mantenido la costumbre de ver al Estado, no desde una perspectiva histórica correspondiente a su tiempo, sino desde los famosos “lentes del presente”; lo cual deviene en que una gran cantidad de trabajos simplemente opten por trasladar una concepción del Estado desde una perspectiva contemporánea, la del Estado-Nación. No es solamenteen el hecho en sí donde se encuentra la problemática, sino en las consecuencias que puede implicar dicha metodología.&lt;/p&gt;
+&lt;p&gt;Para comenzar es necesario entender al Estado Nación como un sistema de dominación burocrático que posee, y ejerce, una dominación en forma impersonal y abstracta sobre un territorio determinado y de las poblaciones que habitan en ella. Es decir, un aparato burocrático que basa su legitimidad en forma racional. Aquí es donde radica la problemática, ya que, como desarrollaremos a continuación, se está trasladando un paradigma cuyos conceptos investigan formas políticas preexistentes en las cuales no se encuentran estos rasgos que mencionamos anteriormente (Schaub Jean-Frédéric, 2004; pp. 47-49).&lt;/p&gt;
+&lt;p&gt;Al contrario, durante el siglo XVIII se visualiza una situación muy diferente, lo cual se confirma a partir del conocimiento de que no se está ante un sistema de dominación que pueda legitimar a la misma en forma impersonal o abstracta, pilar fundamental del Estado-Nación. Al contrario, en este siglo los diferentes entes territoriales y políticos contaban con dos dimensiones para legitimar su dominación: una de carácter tradicional y una imperial, en la cual el territorio gobernado por el monarca (en el caso del espacio hispano en el cual se desarrolla nuestro análisis) no son más que partes dependientes de la figura del mismo. Ante tal contexto resulta obvio lo inadecuado que puede ser el traslado de una concepción estatal de carácter racional/abstracta propia de tiempos posteriores una vez se esboza como el conjunto de dominios en el cual su corporalización se representaba en la figura del monarca&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Segundo, si bien ya para el siglo XVIII se da un progresivo y lento desarrollo de un conjunto de instituciones&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; que más adelante podríamos ya considerar como burocráticas, resulta perjudicial para el análisis ya entenderlas desde ese concepto; la razón para dicho argumento subyace en que estas instituciones lejos de ser habitadas por sujetos de carácter monolíticos, se encontraban dirigidas o compuestas por sujetos diversos; y es en este espacio donde la corte cobra una gran importancia, ya que la misma diversificación es fruto del traslado de las clientelas, facciones, redes de patronazgo, orientaciones religiosas e ideológicas presentes en el mismo espacio cortesano (Benigno Francesco, 2013; pp.218).&lt;/p&gt;
+&lt;p&gt;Por lo tanto, nuestro estudio tendrá una estrecha conexión con esta crítica al uso del paradigma del Estado-Nación en las sociedades preindustriales, lo cual radica en que el estudio del abastecimiento de recursos humanos y materiales en los ejércitos de nuestro marco temporal también ha experimentado este mismo problema; lo cual se debe a una comprensión de las tareas de reclutamiento y logística de suministros como una función del “Estado”, en la que primaba la coerción hacia los diferentes sectores poblacionales en forma de confiscaciones y levas forzosas (Andújar Castillo, 2009.pp124). Es por esto que en los siguientes tres capítulos buscaremos demostrar como la realidad distó fuertemente de ser una en la que el elemento coercitivo consistía la única forma en que la corona podía conseguir para sus ejércitos hombres, comida, municiones, armamento, etc. Sino que se presentó como una realidad en la cual la colaboración entre la monarquía y diferentes agentes fue el elemento clave para cumplir dicho objetivo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://franlab93.github.io/images/ejercito-hispano-borbon/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ii-el-ejército-hispano-durante-la-contienda&#34;&gt;II. El ejército Hispano durante la contienda&lt;/h2&gt;
+&lt;p&gt;Una vez damos por superadas las cuestiones tratadas en el capítulo anterior seguiremos adelante con nuestro segundo paso: Conocer al elemento analizado, en este caso, el Ejército Hispano durante el lapso de tiempo propuesto.&lt;/p&gt;
+&lt;p&gt;Aquí es cuando se presenta una situación compleja en cuanto a las condiciones en las cuales se encontraba el ejército hispano previo al cambio de dinastía y a la subsecuente contienda bélica, así como también con las medidas que se tomaron ante estas mismas condiciones.&lt;/p&gt;
+&lt;p&gt;En cuanto a nuestro primer punto, para el cambio de siglo, el ejército heredado por Felipe V por parte de su predecesor Habsburgo ha sido objeto de análisis que llegaron a la conclusión de ver al mismo como un ejército “débil” y “agotado”, a estos trabajos le siguieron una serie de nuevas investigaciones y sucesivas publicaciones que han roto la vigencia de dichas ideas.&lt;/p&gt;
+&lt;p&gt;Si bien es innegable que el ejército de Carlos II de Habsburgo de fines del siglo XVII poseía unos números muy reducidos, así como una situación general comprometida y desventajosa respecto a sus predecesores; el mismo presentó capacidades de adaptación a las diferentes situaciones a las que debió enfrentarse y una tradición militar que sirvieron de base para construir al nuevo ejército borbón a partir de las reformas militares de Felipe V. (Guillamón Álvarez y Muñoz Rodríguez, 1997; pp. 89-90) (Beltrán, C. B., 2001; pp. 173-175.)&lt;/p&gt;
+&lt;p&gt;Una buena muestra de esto es el hecho de que las reformas durante los primeros años del reinado de Felipe V en el área militar no se dieron sobre la base de un ejército inexistente, contrario a lo dicho hasta hace unas décadas, si no sobre un contingente que en los territorios de la península ibérica, al momento de la sucesión, contaba con un total de 20.000 hombres armados y que luego de las ordenanzas de 1704 estuvo muy lejos de depender totalmente del poder militar francés durante la guerra. (Guillamón Álvarez y Muñoz Rodríguez, 1997; pp. 91)&lt;/p&gt;
+&lt;p&gt;Las series de reformas militares que se dieron a partir de 1700 tuvieron múltiples efectos en el ejército de la Corona, pero en donde más se pueden apreciar es en el apartado numérico, lo cual se hace evidente una vez indagamos en el aumento de sus efectivos, que pasaron de 20000 hombres al inicio del conflicto a un total que superaba los 100000 efectivos para cuando el mismo había finalizado en 1714. Este número fue variando en mayor o menor medida durante la primera mitad del siglo XVIII según aumentaba o disminuía la demanda de recursos militares a lo largo del tiempo, por lo cual no es de sorprender que durante la contienda sucesoria (momento de una gran demanda militar), el ejército haya experimentado tal aumento en cuanto a su tamaño.  Sin embargo la misma expansión implicaba también que en periodos de relativa paz, este ejército se redujera en efectivos en pos de aliviar la presión sobre las arcas de la corona, lo cual fue sumamente beneficiado por unas guerras cortas y de objetivos limitados que implicaban necesidades de hombres y suministros menores comparados a las guerras del siglo XVII.&lt;/p&gt;
+&lt;p&gt;De regreso a nuestro marco temporal, las gran demanda de recursos militares significó que las reformas se debieron realzar con suma rapidez, lo cual, una vez abordemos el tema en el capítulo siguiente, afectó al modo de abastecimiento de las mismas fuerzas. Por parte de la organización del ejército, el aspecto más radical del mismo fue el reemplazo del sistema de Tercios propia de los tiempos de los Austrias, por el sistema de regimientos copiado de Francia (Beltrán, 2001)&lt;/p&gt;
+&lt;p&gt;En cuanto a su composición, es interesante este aspecto dentro de los puestos de la oficialidad, donde las urgencias del conflicto impactan en un sentido tal como puede ser la marcada preferencia de los borbones en el reino Hispano por que los puestos de la oficialidad se encontrasen ocupados, no por miembros de la alta nobleza, si no por lo de una nobleza media o baja, la cual se encontraba más cercana a los estados más llanos desde los cuales se nutrían las filas de suboficiales y la tropa, que desde esta alta nobleza.&lt;/p&gt;
+&lt;p&gt;Dicha preferencia respondía, más bien, a las necesidades de urgencia e improvisación que representaba el conflicto a partir de las cuales Felipe V debió completar los puestos de la oficialidad durante los primeros años de la contienda sin prestar una gran atención a la condición social desde las cuales los individuos provenían.&lt;/p&gt;
+&lt;p&gt;De todas formas es en este hecho donde también podemos destacar otra razón, los primeros años de la guerra significaron un momento crítico para el monarca, por lo cual es incuestionable que Felipe V tuvo que recurrir, por las exigencias de la guerra, a reclutar gente, sin cuidar su origen social, ergo, la falta de influencia por parte de la alta nobleza dentro del Ejército obedeció prácticamente a las necesidades que planteaba el conflicto, donde de poco podía servir la procedencia social de un individuo cuando este mismo no era lo suficientemente experto o competente (Castillo, 1979; pp. 27-30).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://franlab93.github.io/images/ejercito-hispano-borbon/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;iii-abastecimiento-3&#34;&gt;III. Abastecimiento &lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;p&gt;En el capítulo anterior hicimos mención a las reformas llevadas adelantes por Felipe V, las cuales con sus éxitos y fallos fueron capaces de formar un ejército de tamaño considerable comparado al de Carlos II, pero siempre a partir de las bases de este mismo. Este ejército logró durante la Guerra de Sucesión y las demás campañas que se dieron durante la primera mitad del siglo XVIII conseguir sus suministros materiales y humanos mediante el uso de dos opciones: Una era mediante la administración directa (“De Real Cuenta” o “De cuenta de la Real Hacienda”); y otro se daba a través de contratos con asentistas (Beltrán, 2001; pp. 22-37)&lt;/p&gt;
+&lt;p&gt;Ahora bien, en este apartado nos centraremos en como convivieron estas dos opciones, pero primero debemos responder una pregunta que surge a raíz de un concepto tan amplio como puede ser el de “asiento”, por lo tanto: ¿A qué nos referimos por asiento?&lt;/p&gt;
+&lt;p&gt;Este, a grandes rasgos, consistía en una clara relegación de la tarea tanto de el reclutamiento de hombres para el ejército, como de la obtención de suministros para el mismo mediante la formalización de contratos entre la monarquía y un particular (militar o civil) que proporcionaba estos al rey a cambio de dinero y de otras contraprestaciones. Dicho concepto y el sistema que se construye a partir del mismo consiste en una larga práctica en la Corona Hispana desde los tiempos de los Austrias, y que, contrario a lo que se suele sostener, continuaría durante el siglo XVIII, donde también alcanzaría su mayor escala.&lt;/p&gt;
+&lt;p&gt;En cuanto al reclutamiento, el sistema de asientos consistió como el más eficaz para incrementar los cuerpos presentes en el Ejército comparado a los problemas (principalmente su lentitud y gran coste) que implicaban los sistemas de administración directa como podían ser las quintas o las reclutas voluntarias, las cuales durante todo el siglo XVIII, nunca fueron suficientes para compensar las pérdidas generadas por las deserciones, las bajas en combate o por enfermedad y las bajas por edad que azotaban a los regimientos. Sin embargo, este sistema de asientos tendría su gran problemática a corto y largo plazo, las cuales desarrollaremos más adelante en el capítulo. (Andújar Castillo, 2009; pp. 126-127)&lt;/p&gt;
+&lt;p&gt;En cuanto al reclutamiento de hombres, el sistema de asientos tendría diversas formas mientras fue utilizado por la Corona hispana, pero dentro de nuestro marco temporal en la Guerra de Sucesión el tipo de sistema que primó fue uno que se puede definir como “microasiento”. También presente en el siglo XVII, consistía en la firma de un acuerdo con el rey para la entrega de un número de soldados que rondaba entre los cincuenta y cien soldados de infantería, y una cifra menor en el caso de la caballería&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;; a cambio, el particular recibía una patente en blanco para ejercer de capitán de los hombres reclutados. Por lo tanto, consistía en un sistema venal en el que se suministraba al ejército unos soldados cuyo coste de recluta, armamento y vestuario sería equivalente al precio de una patente, la cual el asentista también podía vender a otro particular para cubrir los costes de su empresa&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. (Andújar Castillo, 2013; pp. 251-252)&lt;/p&gt;
+&lt;p&gt;Es en estas contraprestaciones donde podemos encontrar el gran problema del sistema asentista en cuanto al reclutamiento de las tropas, por parte del suministro de recursos materiales los problemas se presentarían a largo plazo en relación a la dependencia de los asentistas con la corona para su sustento económico. Aún así, esta capacidad del asiento de movilizar con mayor eficacia (y a un coste menor), sumado al factor de que la Corona solía pactar con los asentistas en un momento de necesidad tal por conseguir los hombres y suministros para sostener sus guerras estas desventajas quedaban en segundo plano  (Andújar Castillo, 2013; pp. 248). Sí, la posibilidad de que civiles sin experiencia militar pudiesen llegar al rango de capitán e incluso coroneles sin ninguna instrucción militar podía ser un problema, pero la Secretaría de Guerra pudo lidiar con dicho problema simplemente mediante la asignación de hombres con esta experiencia en los rangos que iban por debajo de estos mismos, asegurando un manejo e instrucción satisfactorios de la unidad reclutada. (Andújar Castillo, 2013; pp. 248-250).&lt;/p&gt;
+&lt;p&gt;Aún así, estas ventajas no significaron un abandono total por parte de la corona de las formas más directas para conseguir sus recursos militares, así como tampoco significó la formación de una dicotomía entre administración directa o asiento&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;, si no en una coexistencia de ambas, pero en donde cada una de estas opciones se dedicaban a escenarios distintos. Mientras que el sistema de asientos se dedicó a la creación de cuerpos cuando la Corona necesitó expandir sus fuerzas durante la Guerra de Sucesión, la Corona optaba por un sistema de administración directa para lograr el abastecimiento de forma permanente y mantenimiento completo de sus números de los regimientos una vez que estos se habían formado por parte de los asentistas y servían de forma regular en el ejército (Andújar Castillo, 2013; pp. 241-242)&lt;/p&gt;
+&lt;p&gt;Por lo tanto, al igual que los Austrias, los ejércitos de la monarquía hispana basaron mayoritariamente su política de abastecimiento en el sistema de asientos. Si bien en el área del reclutamiento encontramos una cierta coexistencia de ambos métodos, cuando hablamos de los suministros la presencia del sistema de asientos es casi completa. Esto se debe a que en estas áreas los borbones optaron por una fluctuación entre métodos de gestión, con mayor presencia de los asientos sobre la administración, como ya hemos dicho anteriormente, la prioridad de la corona no era qué sistema debía utilizar para conseguir sus recursos militares, sino no en si estos se conseguían o no, así como también si la autoridad del Rey se veía fortalecida o no.  (Andújar Castillo, 2013; pp.164-165)&lt;/p&gt;
+&lt;p&gt;Eso sí, este factor de necesidad no significa que la Corona no tuviese la capacidad de imponer  un estándar de calidad de los suministros proporcionados por los asentistas; así como tampoco significaba  que quienes incumplían dicho estándar no se viesen expuestos a ser excluidos de futuros asientos. Con esto queremos dar a entender que a lo largo del siglo XVIII, y sobre todo en la Guerra de Sucesión, los monarcas borbones llevaron adelante una estrategia para conseguir sus suministros militares profundamente marcada por el pragmatismo. Es decir que durante la contienda sucesora cualquiera de los dos sistemas eran útiles siempre que estos sirviesen en forma efectiva para un objetivo inmediato y concreto: lograr que sus soldados estuviesen equipados y alimentados, lo cual implicaba que los medios y las consecuencias que estas tendrían ocuparon siempre un lugar secundario; siempre que un sistema fracasó un sistema para abastecer a sus tropas, el miedo al desabastecimiento actuaba como detonante para que se optase por otro método. En nuestro lapso de tiempo no encontramos tales situaciones, pero más de una vez  durante el siglo XVIII el fracaso de un asentista para cumplir con su contrato significó una vuelta al sistema de gestión directa (Andújar Castillo, 2013; pp. 170-171)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://franlab93.github.io/images/ejercito-hispano-borbon/3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;iv-conclusión&#34;&gt;IV. Conclusión&lt;/h2&gt;
+&lt;p&gt;Durante la Guerra de Sucesión Española se dio la reestructuración de los ejércitos de la nueva dinastía en la Corona Hispana,  no solo se llevaron a cabo las reformas que implicaron un cambio en el sistema de organización, sino también su aumento de efectivos a una escala considerable si se compara con el siglo anterior.&lt;/p&gt;
+&lt;p&gt;El trabajo ha demostrado fuertemente que la Corona Hispana tuvo los medios para lograr dicho objetivo y evitando la toma de deuda y asegurando una eficiente capacidad de abastecimiento para sus tropas, como dijimos a principios del trabajo, en todo este proceso siempre imperó la cooperación en una mayor medida, mediante la cual la mayor parte de los hombres y la totalidad de los suministros vinieron de parte de particulares civiles o militares cuyas contraprestaciones no devinieron en grandes problemas hasta fines del siglo XVIII.&lt;/p&gt;
+&lt;p&gt;Por otro lado, aunque la Corona optó en su mayor parte por el sistema de asientos para poder abastecer a sus tropas, esta estaba siempre lista para cambiar de sistema cuando alguno de los dos sistemas fracasasen en su tarea. El hecho de que no se prefiriese por uno de los dos en forma definitiva demuestra lo complejas que fueron las maniobras de la Corona para poder lograr su objetivo (Torres Sánchez, 2016).&lt;/p&gt;
+&lt;h2 id=&#34;bibliografía&#34;&gt;Bibliografía&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Agulla, J. C. (1991). El hombre y su sociedad: la formación de la persona sociológica. Universidad Abierta ya Distancia Hernandarias.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Andújar Castillo, F. (2013). Guerra, venalidad y asientos de soldados en el siglo XVIII. Studia Historica: Historia Moderna, 35. Págs. 235-268&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Andújar Castillo, F. (2009). La privatización del reclutamiento en el siglo XVIII: el sistema de asientos. Studia Historica: Historia Moderna, 25. Págs. 123-147&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Angeli, Sergio (2014) Una existencia etérea: el concepto de Estado colonial y sus críticas recientes. Los Polvorines: Universidad Nacional de General Sarmiento, 2014&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Benigno, Francesco (2013) Las palabras del tiempo. Un ideario para pensar históricamente. Madrid: Cátedra, . “Estado moderno”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beltrán, C. B. (2001). Del Tercio al Regimiento . Estudis: Revista De Historia Moderna, Nº 27, 2001, Págs. 173-207&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Guillamón Álvarez, F., &amp;amp; Muñoz Rodríguez, J. (2007). Las milicias de Felipe V. La militarización de la sociedad castellana durante la Guerra de Sucesión. Revista de Historia Moderna, 0(25), Págs. 89-112&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ludwing Von Mises (1968)La acción humana, Sopec, Madrid,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Torres Sánchez, Rafael (2016), Military Entrepreneurs. The Spanish Contractor State in the Eighteenth Century. Revista Empresa y Humanismo, 20(1), 133+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Schaub, Jean-Frédéric (2004) Sobre el concepto de Estado. Historia Contemporánea, 28&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Esto podemos verlo en distintos conjuntos de reinos donde se experimenta un gran malestar fruto de la ausencia física de la autoridad (el monarca)(Schaub, Jean Frédéric, 2004; pp.50 ), y, si tenemos en cuenta que el carácter compuesto de las monarquías era la norma en Europa, esta cuestión cobra vital importancia(Benigno Francesco,  2013; pp.219).&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;En este trabajo entenderemos a las instituciones desde la perspectiva sociológica propuesta por Juan Carlos Agulla, es decir, como un conjunto de expectativas. (Agulla Juan Carlos, 1991).&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;En este apartado nos centraremos mayormente en el sistema de asientos a la hora de reclutar los hombres necesarios, ya que, como se verá en el capítulo, contiene unas dinámicas más ricos dentro del período que analizamos.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Por norma general el asentista debía hacer frente al coste que implicaba la búsqueda de soldados, dar a estos su prima de enganche, vestirlo, armarlos, mantenerlos mientras durase la recluta y su transporte hasta el lugar de entrega.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Aquí entenderemos empresa desde la perspectiva praxeológica del accionar en pos de cierto beneficio (L. Von Mises).&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Este es otro apartado en el cual el traslado de formas de entender lo económica y políticamente público o privado desde un punto de vista contemporáneo ha generado cierta confusión y conclusiones incompletas e insatisfactorias (Administración o Asiento).&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/archives/</link>
+      <link>https://franlab93.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/</guid>
-      
+      <guid>https://franlab93.github.io/archives/</guid>
         <description></description>
-      
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>https://example.com/contact/</link>
+      <link>https://franlab93.github.io/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
-      
+      <guid>https://franlab93.github.io/contact/</guid>
         <description></description>
-      
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/about/</link>
+      <link>https://franlab93.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      
-        <description>Blog diseñado para publicar mis artículos, los mismos serán hechos en base a los temas que son de mi interés, los cuales pueden ubicarse en diferentes de campos de investigación histórica tales como</description>
-      
+      <guid>https://franlab93.github.io/about/</guid>
+        <description>&lt;p&gt;Blog diseñado para publicar mis artículos, los mismos serán hechos en base a los temas que son de mi interés, los cuales pueden ubicarse en diferentes de campos de investigación histórica tales como&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conflictos armados (Reclutamiento, composición, logística, tácticas y consecuencias)&lt;/li&gt;
+&lt;li&gt;Economía (Especialmente eventos inflacionarios e hiperinflacionarios en diferentes espacios temporales y geográficos)&lt;/li&gt;
+&lt;li&gt;Política (Dinámicas partidarias, sistemas de partidos, sistemas de gobierno, economía política)&lt;/li&gt;
+&lt;li&gt;Corrientes historiográficas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Otros temas de interés fuera de los artículos o relacionados a ellos&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Música&lt;/li&gt;
+&lt;li&gt;Filosofía&lt;/li&gt;
+&lt;li&gt;Psicología&lt;/li&gt;
+&lt;li&gt;Pedagogía&lt;/li&gt;
+&lt;li&gt;Herrería&lt;/li&gt;
+&lt;li&gt;Humor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si estás interesado en contactarme podés hacerlo a través de mi correo:&lt;/p&gt;
+&lt;p&gt;📩 &lt;strong&gt;&lt;a href=&#34;mailto:felipedaff@gmail.com&#34;&gt;felipedaff@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/imprint/</link>
+      <link>https://franlab93.github.io/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/imprint/</guid>
-      
-        <description>Legal Disclosure Information in accordance with the applicable law
-Jane Doe</description>
-      
+      <guid>https://franlab93.github.io/imprint/</guid>
+        <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
+&lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
+&lt;p&gt;Jane Doe&lt;br&gt;
+Anatole Street 10&lt;br&gt;
+2016 GoHugo&lt;br&gt;
+Germany&lt;/p&gt;
+</description>
     </item>
     
   </channel>
