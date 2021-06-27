@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories de Felipe Daffunchio</title>
-    <link>https://franlab93.github.io/en/categories/</link>
+    <link>https://felipedaffunchio.github.io/en/categories/</link>
     <description>Contenido reciente en Categories de Felipe Daffunchio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://franlab93.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://felipedaffunchio.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

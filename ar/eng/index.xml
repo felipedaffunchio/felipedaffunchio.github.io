@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog de Felipe Daffunchio</title>
-    <link>https://franlab93.github.io/ar/eng/</link>
+    <link>https://felipedaffunchio.github.io/ar/eng/</link>
     <description>Contenido reciente de Blog de Felipe Daffunchio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://franlab93.github.io/ar/eng/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://felipedaffunchio.github.io/ar/eng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://franlab93.github.io/ar/eng/archives/</link>
+      <link>https://felipedaffunchio.github.io/ar/eng/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://franlab93.github.io/ar/eng/archives/</guid>
+      <guid>https://felipedaffunchio.github.io/ar/eng/archives/</guid>
         <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://franlab93.github.io/ar/eng/contact/</link>
+      <link>https://felipedaffunchio.github.io/ar/eng/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://franlab93.github.io/ar/eng/contact/</guid>
+      <guid>https://felipedaffunchio.github.io/ar/eng/contact/</guid>
         <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://franlab93.github.io/ar/eng/about/</link>
+      <link>https://felipedaffunchio.github.io/ar/eng/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://franlab93.github.io/ar/eng/about/</guid>
+      <guid>https://felipedaffunchio.github.io/ar/eng/about/</guid>
         <description>&lt;p&gt;Blog designed for publishing my articles, which will be about areas of my interest, those ones can be located in research fields like:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Armed conflicts (recruitment, composition, logistic, tactics and its consecuenses)&lt;/li&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title></title>
-      <link>https://franlab93.github.io/ar/eng/imprint/</link>
+      <link>https://felipedaffunchio.github.io/ar/eng/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://franlab93.github.io/ar/eng/imprint/</guid>
+      <guid>https://felipedaffunchio.github.io/ar/eng/imprint/</guid>
         <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
 &lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
 &lt;p&gt;Jane Doe&lt;br&gt;
